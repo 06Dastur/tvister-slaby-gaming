@@ -1,0 +1,24 @@
+.i1{
+	width: 1150px;
+	height: 200px;
+	background: red;
+	margin-left: 200px;
+}
+.i2{
+	width: 25%;
+	background: white;
+	border: 3px solid white;
+	float: left;
+	height: 100%;
+}
+.img{
+	border-radius: 50%;
+	border: 2px solid #FA3535;
+	box-shadow: 10px 4px 5px 4px rgba(0, 0, 0, 0.2);
+	margin-left: 70px;
+}
+.video{
+	width: 350px;
+	height: 450px;
+	margin-left: 20px;
+}
